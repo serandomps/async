@@ -3,6 +3,6 @@
     "description": "async component",
     "local": [],
     "scripts": ["async.js"],
-    "templates" : [],
+    "templates": [],
     "main": "async.js"
 }
