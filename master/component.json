@@ -1,0 +1,12 @@
+{
+  "name": "async",
+  "description": "async component",
+  "scripts": [
+    "async.js"
+  ],
+  "templates": [],
+  "main": "async.js",
+  "locals": [],
+  "repository": "serandomps/async",
+  "resolved": "38ebab918c583ac073a94a9f979fed510c688925"
+}
